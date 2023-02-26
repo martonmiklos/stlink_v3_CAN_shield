@@ -225,40 +225,40 @@ TME order codes:&lt;br&gt;
 <text x="-2.25" y="9.02" size="1.27" layer="25">&gt;NAME</text>
 <text x="-2.25" y="-13.14" size="1.27" layer="27">&gt;VALUE</text>
 <pad name="CENTER" x="0" y="0" drill="3" diameter="6" shape="octagon"/>
-<pad name="SPI_6" x="16.05" y="-17.765" drill="0.65"/>
-<pad name="SPI_5" x="16.05" y="-19.035" drill="0.65"/>
-<pad name="SPI_8" x="17.32" y="-17.765" drill="0.65"/>
-<pad name="SPI_7" x="17.32" y="-19.035" drill="0.65"/>
-<pad name="SPI_10" x="18.59" y="-17.765" drill="0.65"/>
-<pad name="SPI_9" x="18.59" y="-19.035" drill="0.65"/>
-<pad name="SPI_4" x="14.78" y="-17.765" drill="0.65"/>
-<pad name="SPI_3" x="14.78" y="-19.035" drill="0.65"/>
-<pad name="SPI_2" x="13.51" y="-17.765" drill="0.65"/>
-<pad name="SPI_1" x="13.51" y="-19.035" drill="0.65" first="yes"/>
-<pad name="UART_5" x="16.05" y="19.035" drill="0.65"/>
-<pad name="UART_6" x="16.05" y="17.765" drill="0.65"/>
-<pad name="UART_3" x="17.32" y="19.035" drill="0.65"/>
-<pad name="UART_4" x="17.32" y="17.765" drill="0.65"/>
-<pad name="UART_1" x="18.59" y="19.035" drill="0.65"/>
-<pad name="UART_2" x="18.59" y="17.765" drill="0.65"/>
-<pad name="UART_7" x="14.78" y="19.035" drill="0.65"/>
-<pad name="UART_8" x="14.78" y="17.765" drill="0.65"/>
-<pad name="UART_9" x="13.51" y="19.035" drill="0.65"/>
-<pad name="UART_10" x="13.51" y="17.765" drill="0.65" first="yes"/>
-<pad name="STDC_14_9" x="-28.585" y="-1.27" drill="0.65" rot="R90"/>
-<pad name="STDC_14_10" x="-27.315" y="-1.27" drill="0.65" rot="R90"/>
-<pad name="STDC_14_7" x="-28.585" y="0" drill="0.65" rot="R90"/>
-<pad name="STDC_14_8" x="-27.315" y="0" drill="0.65" rot="R90"/>
-<pad name="STDC_14_5" x="-28.585" y="1.27" drill="0.65" rot="R90"/>
-<pad name="STDC_14_6" x="-27.315" y="1.27" drill="0.65" rot="R90"/>
-<pad name="STDC_14_11" x="-28.585" y="-2.54" drill="0.65" rot="R90"/>
-<pad name="STDC_14_12" x="-27.315" y="-2.54" drill="0.65" rot="R90"/>
-<pad name="STDC_14_13" x="-28.585" y="-3.81" drill="0.65" rot="R90"/>
-<pad name="STDC_14_14" x="-27.315" y="-3.81" drill="0.65" rot="R90" first="yes"/>
-<pad name="STDC_14_3" x="-28.585" y="2.54" drill="0.65" rot="R90"/>
-<pad name="STDC_14_1" x="-28.585" y="3.81" drill="0.65" rot="R90"/>
-<pad name="STDC_14_4" x="-27.315" y="2.54" drill="0.65" rot="R90"/>
-<pad name="STDC_14_2" x="-27.315" y="3.81" drill="0.65" rot="R90"/>
+<pad name="SPI_6" x="17.49" y="-17.765" drill="0.65"/>
+<pad name="SPI_5" x="17.49" y="-19.035" drill="0.65"/>
+<pad name="SPI_8" x="18.76" y="-17.765" drill="0.65"/>
+<pad name="SPI_7" x="18.76" y="-19.035" drill="0.65"/>
+<pad name="SPI_10" x="20.03" y="-17.765" drill="0.65"/>
+<pad name="SPI_9" x="20.03" y="-19.035" drill="0.65"/>
+<pad name="SPI_4" x="16.22" y="-17.765" drill="0.65"/>
+<pad name="SPI_3" x="16.22" y="-19.035" drill="0.65"/>
+<pad name="SPI_2" x="14.95" y="-17.765" drill="0.65"/>
+<pad name="SPI_1" x="14.95" y="-19.035" drill="0.65" first="yes"/>
+<pad name="UART_5" x="17.49" y="19.035" drill="0.65"/>
+<pad name="UART_6" x="17.49" y="17.765" drill="0.65"/>
+<pad name="UART_3" x="18.76" y="19.035" drill="0.65"/>
+<pad name="UART_4" x="18.76" y="17.765" drill="0.65"/>
+<pad name="UART_1" x="20.03" y="19.035" drill="0.65"/>
+<pad name="UART_2" x="20.03" y="17.765" drill="0.65"/>
+<pad name="UART_7" x="16.22" y="19.035" drill="0.65"/>
+<pad name="UART_8" x="16.22" y="17.765" drill="0.65"/>
+<pad name="UART_9" x="14.95" y="19.035" drill="0.65"/>
+<pad name="UART_10" x="14.95" y="17.765" drill="0.65" first="yes"/>
+<pad name="STDC_14_9" x="-28.685" y="-1.27" drill="0.65" rot="R90"/>
+<pad name="STDC_14_10" x="-27.415" y="-1.27" drill="0.65" rot="R90"/>
+<pad name="STDC_14_7" x="-28.685" y="0" drill="0.65" rot="R90"/>
+<pad name="STDC_14_8" x="-27.415" y="0" drill="0.65" rot="R90"/>
+<pad name="STDC_14_5" x="-28.685" y="1.27" drill="0.65" rot="R90"/>
+<pad name="STDC_14_6" x="-27.415" y="1.27" drill="0.65" rot="R90"/>
+<pad name="STDC_14_11" x="-28.685" y="-2.54" drill="0.65" rot="R90"/>
+<pad name="STDC_14_12" x="-27.415" y="-2.54" drill="0.65" rot="R90"/>
+<pad name="STDC_14_13" x="-28.685" y="-3.81" drill="0.65" rot="R90"/>
+<pad name="STDC_14_14" x="-27.415" y="-3.81" drill="0.65" rot="R90" first="yes"/>
+<pad name="STDC_14_3" x="-28.685" y="2.54" drill="0.65" rot="R90"/>
+<pad name="STDC_14_1" x="-28.685" y="3.81" drill="0.65" rot="R90"/>
+<pad name="STDC_14_4" x="-27.415" y="2.54" drill="0.65" rot="R90"/>
+<pad name="STDC_14_2" x="-27.415" y="3.81" drill="0.65" rot="R90"/>
 </package>
 <package name="STLINKV3_HAT">
 <description>Footprint for creating hat like board to the StLink V3 with through hole 1.27 female headers.&lt;br&gt;
@@ -298,20 +298,20 @@ TME order codes:&lt;br&gt;
 <pad name="UART_8" x="14.78" y="17.765" drill="0.65"/>
 <pad name="UART_9" x="13.51" y="19.035" drill="0.65"/>
 <pad name="UART_10" x="13.51" y="17.765" drill="0.65" first="yes"/>
-<pad name="STDC_14_9" x="-28.585" y="-1.27" drill="0.65" rot="R90"/>
-<pad name="STDC_14_10" x="-27.315" y="-1.27" drill="0.65" rot="R90"/>
-<pad name="STDC_14_7" x="-28.585" y="0" drill="0.65" rot="R90"/>
-<pad name="STDC_14_8" x="-27.315" y="0" drill="0.65" rot="R90"/>
-<pad name="STDC_14_5" x="-28.585" y="1.27" drill="0.65" rot="R90"/>
-<pad name="STDC_14_6" x="-27.315" y="1.27" drill="0.65" rot="R90"/>
-<pad name="STDC_14_11" x="-28.585" y="-2.54" drill="0.65" rot="R90"/>
-<pad name="STDC_14_12" x="-27.315" y="-2.54" drill="0.65" rot="R90"/>
-<pad name="STDC_14_13" x="-28.585" y="-3.81" drill="0.65" rot="R90"/>
-<pad name="STDC_14_14" x="-27.315" y="-3.81" drill="0.65" rot="R90" first="yes"/>
-<pad name="STDC_14_3" x="-28.585" y="2.54" drill="0.65" rot="R90"/>
-<pad name="STDC_14_1" x="-28.585" y="3.81" drill="0.65" rot="R90"/>
-<pad name="STDC_14_4" x="-27.315" y="2.54" drill="0.65" rot="R90"/>
-<pad name="STDC_14_2" x="-27.315" y="3.81" drill="0.65" rot="R90"/>
+<pad name="STDC_14_9" x="-28.685" y="-1.27" drill="0.65" rot="R90"/>
+<pad name="STDC_14_10" x="-27.415" y="-1.27" drill="0.65" rot="R90"/>
+<pad name="STDC_14_7" x="-28.685" y="0" drill="0.65" rot="R90"/>
+<pad name="STDC_14_8" x="-27.415" y="0" drill="0.65" rot="R90"/>
+<pad name="STDC_14_5" x="-28.685" y="1.27" drill="0.65" rot="R90"/>
+<pad name="STDC_14_6" x="-27.415" y="1.27" drill="0.65" rot="R90"/>
+<pad name="STDC_14_11" x="-28.685" y="-2.54" drill="0.65" rot="R90"/>
+<pad name="STDC_14_12" x="-27.415" y="-2.54" drill="0.65" rot="R90"/>
+<pad name="STDC_14_13" x="-28.685" y="-3.81" drill="0.65" rot="R90"/>
+<pad name="STDC_14_14" x="-27.415" y="-3.81" drill="0.65" rot="R90" first="yes"/>
+<pad name="STDC_14_3" x="-28.685" y="2.54" drill="0.65" rot="R90"/>
+<pad name="STDC_14_1" x="-28.685" y="3.81" drill="0.65" rot="R90"/>
+<pad name="STDC_14_4" x="-27.415" y="2.54" drill="0.65" rot="R90"/>
+<pad name="STDC_14_2" x="-27.415" y="3.81" drill="0.65" rot="R90"/>
 </package>
 </packages>
 <symbols>
@@ -331,7 +331,7 @@ TME order codes:&lt;br&gt;
 <pin name="SCK" x="-12.7" y="-2.54" visible="pin" length="short" direction="out" function="dot" swaplevel="1"/>
 <pin name="GPIO3" x="12.7" y="-2.54" visible="pin" length="short" function="dot" swaplevel="1" rot="R180"/>
 <pin name="GND" x="-12.7" y="-5.08" visible="pin" length="short" direction="pas" function="dot" swaplevel="1"/>
-<pin name="NC" x="12.7" y="-5.08" visible="pin" length="short" direction="nc" function="dot" swaplevel="1" rot="R180"/>
+<pin name="NC/5V" x="12.7" y="-5.08" visible="pin" length="short" direction="sup" function="dot" swaplevel="1" rot="R180"/>
 </symbol>
 <symbol name="UART">
 <wire x1="-19.05" y1="-7.62" x2="16.51" y2="-7.62" width="0.4064" layer="94"/>
@@ -417,7 +417,7 @@ TME order codes:&lt;br&gt;
 <connect gate="_SPI_GPIO" pin="GPIO3" pad="SPI_8"/>
 <connect gate="_SPI_GPIO" pin="MISO" pad="SPI_5"/>
 <connect gate="_SPI_GPIO" pin="MOSI" pad="SPI_3"/>
-<connect gate="_SPI_GPIO" pin="NC" pad="SPI_10"/>
+<connect gate="_SPI_GPIO" pin="NC/5V" pad="SPI_10"/>
 <connect gate="_SPI_GPIO" pin="SCK" pad="SPI_7"/>
 <connect gate="_UART_CAN_I2C" pin="CAN_RX" pad="UART_6"/>
 <connect gate="_UART_CAN_I2C" pin="CAN_TX" pad="UART_4"/>
@@ -459,7 +459,7 @@ TME order codes:&lt;br&gt;
 <connect gate="_SPI_GPIO" pin="GPIO3" pad="SPI_8"/>
 <connect gate="_SPI_GPIO" pin="MISO" pad="SPI_5"/>
 <connect gate="_SPI_GPIO" pin="MOSI" pad="SPI_3"/>
-<connect gate="_SPI_GPIO" pin="NC" pad="SPI_10"/>
+<connect gate="_SPI_GPIO" pin="NC/5V" pad="SPI_10"/>
 <connect gate="_SPI_GPIO" pin="SCK" pad="SPI_7"/>
 <connect gate="_UART_CAN_I2C" pin="CAN_RX" pad="UART_6"/>
 <connect gate="_UART_CAN_I2C" pin="CAN_TX" pad="UART_4"/>
@@ -493,7 +493,7 @@ TME order codes:&lt;br&gt;
 <symbols>
 <symbol name="GND">
 <wire x1="-1.905" y1="0" x2="1.905" y2="0" width="0.254" layer="94"/>
-<text x="-2.54" y="-2.54" size="1.778" layer="96">&gt;VALUE</text>
+<text x="0" y="-2.54" size="1.27" layer="96" font="vector" align="bottom-center">&gt;VALUE</text>
 <pin name="GND" x="0" y="2.54" visible="off" length="short" direction="sup" rot="R270"/>
 </symbol>
 <symbol name="VUSB">
@@ -7399,17 +7399,17 @@ http://dangerousprototypes.com</description>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
-<part name="C120" library="rcl" deviceset="C-EU" device="C0603" value="1uF">
+<part name="C1" library="rcl" deviceset="C-EU" device="C0603" value="1uF">
 <attribute name="OC_FARNELL" value="2310567"/>
 <attribute name="OC_LOMEX" value="82-07-86"/>
 <attribute name="OC_TME" value="CL10B105KO8NNNC"/>
 </part>
-<part name="C122" library="rcl" deviceset="C-EU" device="C0603" value="100n">
+<part name="C4" library="rcl" deviceset="C-EU" device="C0603" value="100n">
 <attribute name="OC_FARNELL" value="2310560"/>
 <attribute name="OC_LOMEX" value="82-06-23"/>
 <attribute name="OC_TME" value="CL10B104KB8NNNC"/>
 </part>
-<part name="C126" library="rcl" deviceset="C-EU" device="C0603" value="10n">
+<part name="C2" library="rcl" deviceset="C-EU" device="C0603" value="10n">
 <attribute name="OC_FARNELL" value="2310601"/>
 <attribute name="OC_LOMEX" value="82-08-73"/>
 <attribute name="OC_TME" value="C0603C103K1RAC"/>
@@ -7419,24 +7419,24 @@ http://dangerousprototypes.com</description>
 <part name="P+2" library="supply1" deviceset="VUSB" device=""/>
 <part name="P+3" library="supply1" deviceset="VUSB" device=""/>
 <part name="IC1" library="SparkFun" deviceset="V_REG_LM1117" device="SOT223"/>
-<part name="C1" library="rcl" deviceset="C-EU" device="C0603" value="100n">
+<part name="C3" library="rcl" deviceset="C-EU" device="C0603" value="100n">
 <attribute name="OC_FARNELL" value="2310560"/>
 <attribute name="OC_LOMEX" value="82-06-23"/>
 <attribute name="OC_TME" value="CL10B104KB8NNNC"/>
 </part>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
-<part name="C2" library="rcl" deviceset="C-EU" device="C0603" value="1uF">
+<part name="C5" library="rcl" deviceset="C-EU" device="C0603" value="1uF">
 <attribute name="OC_FARNELL" value="2310567"/>
 <attribute name="OC_LOMEX" value="82-07-86"/>
 <attribute name="OC_TME" value="CL10B105KO8NNNC"/>
 </part>
 <part name="+3V1" library="supply1" deviceset="+3V3" device=""/>
 <part name="+3V2" library="supply1" deviceset="+3V3" device=""/>
-<part name="LED1" library="dp_devices" deviceset="LED" device="-0603"/>
-<part name="R8" library="rcl" deviceset="R-EU_" device="R0603" value="330">
+<part name="LED2" library="dp_devices" deviceset="LED" device="-0603"/>
+<part name="R2" library="rcl" deviceset="R-EU_" device="R0603" value="330">
 <attribute name="OC_TME" value="0603SAF1001T5E"/>
 </part>
-<part name="LED2" library="dp_devices" deviceset="LED" device="-0603"/>
+<part name="LED1" library="dp_devices" deviceset="LED" device="-0603"/>
 <part name="R1" library="rcl" deviceset="R-EU_" device="R0603" value="470">
 <attribute name="OC_TME" value="0603SAF1001T5E"/>
 </part>
@@ -7447,6 +7447,7 @@ http://dangerousprototypes.com</description>
 </parts>
 <sheets>
 <sheet>
+<description>Schematic diagram</description>
 <plain>
 </plain>
 <instances>
@@ -7501,21 +7502,21 @@ http://dangerousprototypes.com</description>
 <instance part="GND7" gate="1" x="12.7" y="12.7" smashed="yes">
 <attribute name="VALUE" x="10.16" y="10.16" size="1.778" layer="96"/>
 </instance>
-<instance part="C120" gate="G$1" x="15.24" y="132.08" smashed="yes">
+<instance part="C1" gate="G$1" x="15.24" y="132.08" smashed="yes">
 <attribute name="OC_FARNELL" x="15.24" y="132.08" size="1.27" layer="96" font="vector" display="off"/>
 <attribute name="OC_LOMEX" x="15.24" y="132.08" size="1.27" layer="96" font="vector" display="off"/>
 <attribute name="OC_TME" x="15.24" y="132.08" size="1.27" layer="96" font="vector" display="off"/>
 <attribute name="NAME" x="16.764" y="132.461" size="1.778" layer="95"/>
 <attribute name="VALUE" x="16.764" y="127.381" size="1.778" layer="96"/>
 </instance>
-<instance part="C122" gate="G$1" x="27.94" y="129.54" smashed="yes" rot="R180">
+<instance part="C4" gate="G$1" x="27.94" y="129.54" smashed="yes" rot="R180">
 <attribute name="NAME" x="28.956" y="129.667" size="1.778" layer="95"/>
 <attribute name="VALUE" x="28.956" y="125.349" size="1.778" layer="96"/>
 <attribute name="OC_FARNELL" x="27.94" y="129.54" size="1.27" layer="96" font="vector" display="off"/>
 <attribute name="OC_LOMEX" x="27.94" y="129.54" size="1.27" layer="96" font="vector" display="off"/>
 <attribute name="OC_TME" x="27.94" y="129.54" size="1.27" layer="96" font="vector" display="off"/>
 </instance>
-<instance part="C126" gate="G$1" x="45.72" y="132.08" smashed="yes" rot="MR0">
+<instance part="C2" gate="G$1" x="45.72" y="132.08" smashed="yes" rot="MR0">
 <attribute name="NAME" x="42.926" y="132.461" size="1.778" layer="95" font="vector" rot="MR0"/>
 <attribute name="VALUE" x="42.926" y="129.921" size="1.778" layer="96" font="vector" rot="MR0"/>
 <attribute name="OC_FARNELL" x="45.72" y="132.08" size="1.27" layer="96" font="vector" display="off"/>
@@ -7538,7 +7539,7 @@ http://dangerousprototypes.com</description>
 <attribute name="NAME" x="60.96" y="129.54" size="1.778" layer="95"/>
 <attribute name="VALUE" x="60.96" y="127" size="1.778" layer="96"/>
 </instance>
-<instance part="C1" gate="G$1" x="73.66" y="129.54" smashed="yes" rot="R180">
+<instance part="C3" gate="G$1" x="73.66" y="129.54" smashed="yes" rot="R180">
 <attribute name="NAME" x="74.676" y="129.667" size="1.778" layer="95"/>
 <attribute name="VALUE" x="74.676" y="125.349" size="1.778" layer="96"/>
 <attribute name="OC_FARNELL" x="73.66" y="129.54" size="1.27" layer="96" font="vector" display="off"/>
@@ -7548,7 +7549,7 @@ http://dangerousprototypes.com</description>
 <instance part="GND9" gate="1" x="157.48" y="147.32" smashed="yes">
 <attribute name="VALUE" x="154.94" y="144.78" size="1.778" layer="96"/>
 </instance>
-<instance part="C2" gate="G$1" x="86.36" y="132.08" smashed="yes">
+<instance part="C5" gate="G$1" x="86.36" y="132.08" smashed="yes">
 <attribute name="OC_FARNELL" x="86.36" y="132.08" size="1.27" layer="96" font="vector" display="off"/>
 <attribute name="OC_LOMEX" x="86.36" y="132.08" size="1.27" layer="96" font="vector" display="off"/>
 <attribute name="OC_TME" x="86.36" y="132.08" size="1.27" layer="96" font="vector" display="off"/>
@@ -7561,16 +7562,16 @@ http://dangerousprototypes.com</description>
 <instance part="+3V2" gate="G$1" x="119.38" y="63.5" smashed="yes">
 <attribute name="VALUE" x="119.38" y="64.262" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="LED1" gate="LED" x="208.28" y="88.9" smashed="yes">
+<instance part="LED2" gate="LED" x="208.28" y="88.9" smashed="yes">
 <attribute name="NAME" x="211.328" y="87.884" size="1.27" layer="95" font="vector" ratio="10"/>
 <attribute name="VALUE" x="213.995" y="84.328" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R8" gate="G$1" x="208.28" y="101.6" smashed="yes" rot="R270">
+<instance part="R2" gate="G$1" x="208.28" y="101.6" smashed="yes" rot="R270">
 <attribute name="NAME" x="212.09" y="103.0986" size="1.27" layer="95" font="vector" ratio="10"/>
 <attribute name="VALUE" x="212.09" y="100.838" size="1.27" layer="96" font="vector" ratio="10"/>
 <attribute name="OC_TME" x="208.28" y="101.6" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
-<instance part="LED2" gate="LED" x="223.52" y="88.9" smashed="yes">
+<instance part="LED1" gate="LED" x="223.52" y="88.9" smashed="yes">
 <attribute name="NAME" x="226.568" y="87.884" size="1.27" layer="95" font="vector" ratio="10"/>
 <attribute name="VALUE" x="229.235" y="84.328" size="1.778" layer="96" rot="R90"/>
 </instance>
@@ -7649,14 +7650,14 @@ http://dangerousprototypes.com</description>
 </segment>
 <segment>
 <pinref part="GND8" gate="1" pin="GND"/>
-<pinref part="C120" gate="G$1" pin="2"/>
+<pinref part="C1" gate="G$1" pin="2"/>
 <wire x1="15.24" y1="121.92" x2="15.24" y2="124.46" width="0.1524" layer="91"/>
-<pinref part="C122" gate="G$1" pin="1"/>
+<pinref part="C4" gate="G$1" pin="1"/>
 <wire x1="15.24" y1="124.46" x2="15.24" y2="127" width="0.1524" layer="91"/>
 <wire x1="15.24" y1="124.46" x2="27.94" y2="124.46" width="0.1524" layer="91"/>
 <wire x1="27.94" y1="124.46" x2="27.94" y2="127" width="0.1524" layer="91"/>
 <junction x="15.24" y="124.46"/>
-<pinref part="C126" gate="G$1" pin="2"/>
+<pinref part="C2" gate="G$1" pin="2"/>
 <wire x1="27.94" y1="124.46" x2="45.72" y2="124.46" width="0.1524" layer="91"/>
 <wire x1="45.72" y1="124.46" x2="45.72" y2="127" width="0.1524" layer="91"/>
 <junction x="27.94" y="124.46"/>
@@ -7664,11 +7665,11 @@ http://dangerousprototypes.com</description>
 <wire x1="45.72" y1="124.46" x2="58.42" y2="124.46" width="0.1524" layer="91"/>
 <wire x1="58.42" y1="124.46" x2="58.42" y2="129.54" width="0.1524" layer="91"/>
 <junction x="45.72" y="124.46"/>
-<pinref part="C1" gate="G$1" pin="1"/>
+<pinref part="C3" gate="G$1" pin="1"/>
 <wire x1="58.42" y1="124.46" x2="73.66" y2="124.46" width="0.1524" layer="91"/>
 <wire x1="73.66" y1="124.46" x2="73.66" y2="127" width="0.1524" layer="91"/>
 <junction x="58.42" y="124.46"/>
-<pinref part="C2" gate="G$1" pin="2"/>
+<pinref part="C5" gate="G$1" pin="2"/>
 <wire x1="73.66" y1="124.46" x2="86.36" y2="124.46" width="0.1524" layer="91"/>
 <wire x1="86.36" y1="124.46" x2="86.36" y2="127" width="0.1524" layer="91"/>
 <junction x="73.66" y="124.46"/>
@@ -7680,17 +7681,17 @@ http://dangerousprototypes.com</description>
 <wire x1="157.48" y1="154.94" x2="157.48" y2="149.86" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="LED1" gate="LED" pin="C"/>
+<pinref part="LED2" gate="LED" pin="C"/>
 <wire x1="208.28" y1="81.28" x2="208.28" y2="83.82" width="0.1524" layer="91"/>
 <pinref part="GND10" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="LED2" gate="LED" pin="C"/>
+<pinref part="LED1" gate="LED" pin="C"/>
 <wire x1="223.52" y1="81.28" x2="223.52" y2="83.82" width="0.1524" layer="91"/>
 <pinref part="GND11" gate="1" pin="GND"/>
 </segment>
 </net>
-<net name="CAN_L" class="0">
+<net name="CAN_N" class="0">
 <segment>
 <pinref part="X1" gate="-1" pin="2"/>
 <wire x1="182.88" y1="121.92" x2="187.96" y2="121.92" width="0.1524" layer="91"/>
@@ -7702,7 +7703,7 @@ http://dangerousprototypes.com</description>
 <label x="172.72" y="48.26" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 </net>
-<net name="CAN_H" class="0">
+<net name="CAN_P" class="0">
 <segment>
 <pinref part="X1" gate="-1" pin="7"/>
 <wire x1="167.64" y1="121.92" x2="162.56" y2="121.92" width="0.1524" layer="91"/>
@@ -7714,7 +7715,7 @@ http://dangerousprototypes.com</description>
 <label x="172.72" y="50.8" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 </net>
-<net name="CAN_RX" class="0">
+<net name="CAN_MCU_N" class="0">
 <segment>
 <pinref part="CON1" gate="_UART_CAN_I2C" pin="CAN_RX"/>
 <wire x1="48.26" y1="86.36" x2="58.42" y2="86.36" width="0.1524" layer="91"/>
@@ -7726,7 +7727,7 @@ http://dangerousprototypes.com</description>
 <label x="121.92" y="53.34" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="CAN_TX" class="0">
+<net name="CAN_MCU_P" class="0">
 <segment>
 <pinref part="CON1" gate="_UART_CAN_I2C" pin="CAN_TX"/>
 <wire x1="48.26" y1="88.9" x2="58.42" y2="88.9" width="0.1524" layer="91"/>
@@ -7746,12 +7747,12 @@ http://dangerousprototypes.com</description>
 <pinref part="P+1" gate="G$1" pin="VUSB"/>
 </segment>
 <segment>
-<pinref part="C120" gate="G$1" pin="1"/>
+<pinref part="C1" gate="G$1" pin="1"/>
 <wire x1="15.24" y1="139.7" x2="15.24" y2="137.16" width="0.1524" layer="91"/>
-<pinref part="C122" gate="G$1" pin="2"/>
+<pinref part="C4" gate="G$1" pin="2"/>
 <wire x1="15.24" y1="137.16" x2="15.24" y2="134.62" width="0.1524" layer="91"/>
 <junction x="15.24" y="137.16"/>
-<pinref part="C126" gate="G$1" pin="1"/>
+<pinref part="C2" gate="G$1" pin="1"/>
 <wire x1="45.72" y1="137.16" x2="45.72" y2="134.62" width="0.1524" layer="91"/>
 <wire x1="15.24" y1="137.16" x2="27.94" y2="137.16" width="0.1524" layer="91"/>
 <wire x1="27.94" y1="137.16" x2="27.94" y2="134.62" width="0.1524" layer="91"/>
@@ -7778,11 +7779,11 @@ http://dangerousprototypes.com</description>
 <segment>
 <pinref part="IC1" gate="G$1" pin="OUT"/>
 <wire x1="66.04" y1="137.16" x2="68.58" y2="137.16" width="0.1524" layer="91"/>
-<pinref part="C2" gate="G$1" pin="1"/>
+<pinref part="C5" gate="G$1" pin="1"/>
 <wire x1="68.58" y1="137.16" x2="73.66" y2="137.16" width="0.1524" layer="91"/>
 <wire x1="73.66" y1="137.16" x2="86.36" y2="137.16" width="0.1524" layer="91"/>
 <wire x1="86.36" y1="137.16" x2="86.36" y2="134.62" width="0.1524" layer="91"/>
-<pinref part="C1" gate="G$1" pin="2"/>
+<pinref part="C3" gate="G$1" pin="2"/>
 <wire x1="73.66" y1="134.62" x2="73.66" y2="137.16" width="0.1524" layer="91"/>
 <junction x="73.66" y="137.16"/>
 <pinref part="IC1" gate="G$1" pin="OUT@1"/>
@@ -7800,21 +7801,21 @@ http://dangerousprototypes.com</description>
 <pinref part="+3V2" gate="G$1" pin="+3V3"/>
 </segment>
 <segment>
-<pinref part="R8" gate="G$1" pin="1"/>
+<pinref part="R2" gate="G$1" pin="1"/>
 <wire x1="208.28" y1="106.68" x2="208.28" y2="111.76" width="0.1524" layer="91"/>
 <pinref part="+3V3" gate="G$1" pin="+3V3"/>
 </segment>
 </net>
 <net name="VIN_LED_R1" class="0">
 <segment>
-<pinref part="LED1" gate="LED" pin="A"/>
-<pinref part="R8" gate="G$1" pin="2"/>
+<pinref part="LED2" gate="LED" pin="A"/>
+<pinref part="R2" gate="G$1" pin="2"/>
 <wire x1="208.28" y1="91.44" x2="208.28" y2="96.52" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="VIN_LED_R2" class="0">
 <segment>
-<pinref part="LED2" gate="LED" pin="A"/>
+<pinref part="LED1" gate="LED" pin="A"/>
 <pinref part="R1" gate="G$1" pin="2"/>
 <wire x1="223.52" y1="91.44" x2="223.52" y2="96.52" width="0.1524" layer="91"/>
 </segment>
